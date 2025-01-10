@@ -1,0 +1,77 @@
+body{
+    font-family:sans-serif;
+}
+
+button{
+    margin-top:  10px;
+    background-color: #3882f6;
+    color: white;
+    border-radius:20px;
+    font-size: 18px;
+    padding: 15px;
+    box-shadow: none;
+    border:none;
+}
+
+/* Header styling */
+
+
+
+.Header {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left:120px;
+    padding-right: 120px;
+}
+
+ul.list {
+    display: flex;
+    color: black;
+    flex-shrink: 0;
+}
+
+li{
+    display: flex;
+    color: white;
+    padding-left: 10px;
+    font-size: 12px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Hero styling */
+
+.Hero {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    padding-left:120px;
+    padding-right: 120px;
+    justify-content: space-between
+}
+
+.Imageplaceholder {
+    background-color: grey;
+    padding:100px;
+    margin: 50px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    
+}
+
+.Writeup{
+    padding: 100px;
+}
+
+.Writeup .one{
+   font-size: 48px;
+    font-weight: bold;
+    padding-top: 50px;
+}
