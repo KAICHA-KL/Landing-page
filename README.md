@@ -1,7 +1,5 @@
 # Landing-page
 
-# Landing Page Project
-
 A responsive landing page created as part of The Odin Project curriculum. This project demonstrates fundamental HTML and CSS skills, with a focus on Flexbox layout techniques.
 
 ## Description
